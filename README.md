@@ -1,5 +1,5 @@
 # Multiphasic-stochastic-epidemic-models
-This is a repository that contains code for the analyses performed in the paper `Multiphasic stochastic epidemic models'
+This is a repository that contains code for the simulation analyses performed in the paper `Multiphasic stochastic epidemic models'
 
 Barmpounakis P.<sup>1</sup> ,Demiris N.<sup>1</sup>
 
